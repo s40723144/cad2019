@@ -22,6 +22,7 @@
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
+<v t="leo.20200110094000.1"><vh>投影片快捷鍵</vh></v>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
@@ -68,7 +69,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 </t>
 <t tx="leo.20180902120523.12"># 第16周任務
 
-* solvespace繪圖，零件和轉檔至Vrep
+* solvespace繪圖，零件配置和轉檔至V-rep
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/dLLA2flZezk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20180902120523.13">&lt;section&gt;
@@ -318,5 +319,10 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
+<t tx="leo.20200110094000.1"># 第16周任務
+
+* solvespace繪圖，零件配置和轉檔至Vrep
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/dLLA2flZezk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 </tnodes>
 </leo_file>
